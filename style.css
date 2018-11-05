@@ -1,0 +1,33 @@
+* {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.titulo {
+	font-size: 40px;
+}
+
+.primero {
+	font-size: 25px;
+}
+
+.menu {
+	width: 25%;
+	border:2px solid black;
+	padding-top: 20px;
+    padding-left: 10px;
+}
+
+button {
+	border: 4px;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.container {
+	padding-left: 0;
+}
+
+.col-md-4 {
+	padding-right: 0px;
+	padding-left: 0;
+}
